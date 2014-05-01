@@ -1,0 +1,5 @@
+E user
+E signup
+R user signup N
+E user_info
+R user user_info 1
